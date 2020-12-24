@@ -1,0 +1,28 @@
+{
+  "name": "restaurant-page",
+  "version": "1.0.0",
+  "description": "",
+  "private": true,
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "webpack",
+    "watch": "webpack --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DurlavK/Restaurant-page.git"
+  },
+  "author": "durlavk",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DurlavK/Restaurant-page/issues"
+  },
+  "homepage": "https://github.com/DurlavK/Restaurant-page#readme",
+  "devDependencies": {
+    "webpack": "^5.11.0",
+    "webpack-cli": "^4.2.0"
+  },
+  "dependencies": {
+    "lodash": "^4.17.20"
+  }
+}
